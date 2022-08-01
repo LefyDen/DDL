@@ -7,6 +7,8 @@ namespace beatroot1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Вічний революціонер");
+            Console.WriteLine("Дух що тіло рве до бою ");
         }
     }
 }
